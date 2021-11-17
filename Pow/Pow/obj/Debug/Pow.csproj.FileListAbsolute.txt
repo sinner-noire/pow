@@ -1,0 +1,11 @@
+C:\Users\batur\source\repos\Pow\Pow\bin\Debug\Pow.exe.config
+C:\Users\batur\source\repos\Pow\Pow\bin\Debug\Pow.exe
+C:\Users\batur\source\repos\Pow\Pow\bin\Debug\Pow.pdb
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.csproj.AssemblyReference.cache
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.Logo.resources
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.Properties.Resources.resources
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.csproj.GenerateResource.cache
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.csproj.CoreCompileInputs.cache
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.exe
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.pdb
+C:\Users\batur\source\repos\Pow\Pow\obj\Debug\Pow.Main.resources
