@@ -8,6 +8,6 @@ WARNING!
 
 - Credits 
 
-- Memory: @Lufzys
-- Features: @TheXare99
-- Menu design: @TheXare99
+- Memory: Lufzys
+- Features: Senior
+- Menu design: Senior
