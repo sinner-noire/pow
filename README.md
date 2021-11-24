@@ -11,3 +11,6 @@ WARNING!
 - Memory: Lufzys
 - Features: Senior
 - Menu design: Senior
+
+Email: seniorcullsman@gmail.com
+Discord: AwesomeBungee#0753
