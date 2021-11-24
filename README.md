@@ -12,5 +12,5 @@ WARNING!
 - Features: Senior
 - Menu design: Senior
 
-Email: seniorcullsman@gmail.com
-Discord: AwesomeBungee#0753
+# Email: seniorcullsman@gmail.com
+# Discord: AwesomeBungee#0753
